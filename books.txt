@@ -1,0 +1,3 @@
+9780545010221,Harry Potter and the Sorcerer's Stone,J.K. Rowling,8.99,5
+9780544003415,The Hobbit,J.R.R. Tolkien,7.49,3
+9780062315007,To Kill a Mockingbird,Harper Lee,9.99,2
